@@ -7,7 +7,7 @@
                 <div class="card-reader">Home Component</div>
 
                 <div class="card-body">
-                    I'm the Clone Component component.
+                    I'm the Git pro. and ...?
                 </div>
             </div>
         </div>
